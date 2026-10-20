@@ -1,0 +1,58 @@
+5.2 Approved Editorial Revisions for Implementation
+The following replacements should be applied.
+
+         ID                                 Replacement question
+
+ Together      What's a harmless little thing that gives you an irrationally strong opinion?
+ 001
+
+ Together      What's one of my little quirks that you've come to find funny or endearing?
+ 004
+
+ Together      What's the funniest misunderstanding you've ever managed to get yourself
+ 010           into?
+ Together      What's something small about you that you think might surprise me?
+ 039
+
+ Together      What would financial security look and feel like in your everyday life?
+ 057
+
+ Together      How do you think partners can support each other's happiness while remaining
+ 067           responsible for their own wellbeing?
+
+ Together      When do you feel especially loved by me?
+ 081
+
+ Together      What's a small gesture you'd love us to make more often?
+ 082
+
+ Together      How do you feel about the compromises we've each made in our relationship?
+ 088
+
+ Together      What's one thing we could try differently that might make everyday life better for
+ 099           both of us?
+
+ Discover      What would your ideal balance of adventure, comfort and stability look like?
+ D04
+
+ Discover      What's something that makes you leave a date smiling?
+ D10
+
+These revisions are editorial recommendations based on neutrality, safety and user experience,
+rather than individually tested improvements.
+
+Additional Editorial Review
+
+Questions 059, 091 and 092 require a final editorial pass.
+
+Suggested alternatives:
+
+059: "How do you balance your need for stability with your appetite for new experiences?"
+
+091: "What's something about your needs that you'd like me to understand better?"
+
+092: "What's something about my needs that you'd like to understand better?"
+
+These alternatives should replace the originals only after review.
+
+

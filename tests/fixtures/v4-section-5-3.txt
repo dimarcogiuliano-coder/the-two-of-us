@@ -1,0 +1,25 @@
+5.3 Sensitive Question Controls
+The following question IDs require additional care:
+
+Together:​
+039, 057, 061, 062, 063, 072, 080, 081, 083, 085, 087, 088, 089, 091, 092, 095, 096, 099.
+
+Some are simply personal; others warrant explicit opt-in.
+
+Stronger opt-in requirements
+
+Before questions 062, 063, 072, 080, 083, 089, 095 and 096, ensure that players have opted
+into the relevant sensitive topic.
+
+Do not introduce these questions as surprise challenges.
+
+If a sensitive question appears in Shuffle mode, the user must have enabled sensitive topics for
+that session.
+
+Provide an option to exclude sensitive questions entirely.
+
+Both participants should be comfortable continuing.
+
+A participant can always pass without explanation.
+
+
